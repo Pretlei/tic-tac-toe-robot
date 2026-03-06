@@ -6,4 +6,4 @@ An autonomous Tic Tac Toe Robot built using VEX IQ and Tetrix components, as wel
 
 <img width="525" height="394" alt="image" src="https://github.com/user-attachments/assets/2d0e2601-1dba-42a4-a635-04df83e5038a" />
 
-Read the Final Report for in-depth documentation and code.
+Read the Final Report for in-depth documentation and code!
